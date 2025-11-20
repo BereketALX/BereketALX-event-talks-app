@@ -1,0 +1,44 @@
+[
+    {
+        "title": "The Future of JavaScript Frameworks",
+        "speakers": ["Jane Doe"],
+        "category": ["JavaScript", "Web Development", "Frontend"],
+        "duration": 60,
+        "description": "A deep dive into the latest trends and predictions for JavaScript frameworks. We'll explore the rise of Svelte, the evolution of React, and what's next for the web."
+    },
+    {
+        "title": "Building Scalable APIs with Node.js",
+        "speakers": ["John Smith", "Emily White"],
+        "category": ["Node.js", "Backend", "API"],
+        "duration": 60,
+        "description": "Learn how to design and build robust, scalable APIs using Node.js and Express. We'll cover best practices for authentication, data validation, and error handling."
+    },
+    {
+        "title": "CSS Grid and Flexbox: A Modern Approach to Layout",
+        "speakers": ["Alex Johnson"],
+        "category": ["CSS", "Frontend", "Web Design"],
+        "duration": 60,
+        "description": "Master the power of CSS Grid and Flexbox to create complex, responsive layouts with ease. This talk is packed with practical examples and tips."
+    },
+    {
+        "title": "Introduction to Machine Learning with Python",
+        "speakers": ["Maria Garcia"],
+        "category": ["Python", "Machine Learning", "Data Science"],
+        "duration": 60,
+        "description": "Get started with machine learning using Python's popular libraries like Scikit-learn and TensorFlow. We'll build a simple predictive model from scratch."
+    },
+    {
+        "title": "DevOps for Dummies: A Beginner's Guide",
+        "speakers": ["David Lee", "Chris Green"],
+        "category": ["DevOps", "CI/CD", "Cloud"],
+        "duration": 60,
+        "description": "Demystifying the world of DevOps. Learn the core concepts of continuous integration, continuous delivery, and infrastructure as code."
+    },
+    {
+        "title": "The Art of Debugging: Tips and Tricks",
+        "speakers": ["Sarah Brown"],
+        "category": ["Debugging", "Software Engineering"],
+        "duration": 60,
+        "description": "Become a more effective developer by mastering the art of debugging. We'll share practical strategies and tools for finding and fixing bugs faster."
+    }
+]
